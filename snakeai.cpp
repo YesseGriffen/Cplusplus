@@ -1,3 +1,8 @@
+#This program runs a snakeAI using A* for the algorithm
+#The algorithm completes in the findPath function, where the other sub-functions and variables from the struct Node are being fully used.
+#The program currently runs in the terminal with different symbols and using the clearConsole function to make it look like an animation.
+
+
 #include <iostream>
 #include <chrono>
 #include <thread>
